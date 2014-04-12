@@ -4,4 +4,9 @@ this is a new line, not staged yet.
 
 public void foo()
 {
+
+}
+
+public void bar()
+{
 }
