@@ -2,5 +2,6 @@ this is a test file.
 
 this is a new line, not staged yet.
 
- 
- is
+public void foo()
+{
+}
