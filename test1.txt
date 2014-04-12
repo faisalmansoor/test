@@ -10,3 +10,7 @@ public void foo()
 public void bar()
 {
 }
+
+public void jango()
+{
+}
