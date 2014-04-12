@@ -9,3 +9,5 @@ public void foo()
 public void jango()
 {
 }
+
+public void bar1() {}
